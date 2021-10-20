@@ -1,4 +1,4 @@
-#include <WiFi.h> //ESP8266
+#include <WiFi.h> //ESP32 only
 
 const char *ssid = "xxx";
 const char *password = "xxx";
