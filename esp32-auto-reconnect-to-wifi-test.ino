@@ -1,7 +1,7 @@
 #include <WiFi.h> //ESP8266
 
-const char *ssid = "sonoffDiy";
-const char *password = "1234567890";
+const char *ssid = "xxx";
+const char *password = "xxx";
 
 
 void WiFiEvent(WiFiEvent_t event)
