@@ -1,4 +1,4 @@
-# esp32-8266 Auto reconnect to wifi when connection drops test
+# ESP32 Auto reconnect to wifi when connection drops test
 
 Check whether does setAutoReconnect(true); auto reconnect to WiFi when connection drops ? Yes! 
 
